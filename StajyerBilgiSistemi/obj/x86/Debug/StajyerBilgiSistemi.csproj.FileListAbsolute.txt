@@ -1,0 +1,190 @@
+C:\Users\Ege\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ege\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.CardList.resources
+C:\Users\Ege\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Entry.resources
+C:\Users\Ege\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Intern.resources
+C:\Users\Ege\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternList.resources
+C:\Users\Ege\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternSearch.resources
+C:\Users\Ege\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.MainMenu.resources
+C:\Users\Ege\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.NewIntern.resources
+C:\Users\Ege\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Properties.Resources.resources
+C:\Users\Ege\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.SearchingResults.resources
+C:\Users\Ege\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ege\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ege\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe
+C:\Users\Ege\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.pdb
+C:\Users\Ege\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.exe
+C:\Users\Ege\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.pdb
+C:\Users\BÜŞRA\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.exe
+C:\Users\BÜŞRA\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.pdb
+C:\Users\BÜŞRA\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BÜŞRA\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.CardList.resources
+C:\Users\BÜŞRA\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Entry.resources
+C:\Users\BÜŞRA\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Intern.resources
+C:\Users\BÜŞRA\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternList.resources
+C:\Users\BÜŞRA\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternSearch.resources
+C:\Users\BÜŞRA\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.MainMenu.resources
+C:\Users\BÜŞRA\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.NewIntern.resources
+C:\Users\BÜŞRA\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Properties.Resources.resources
+C:\Users\BÜŞRA\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.SearchingResults.resources
+C:\Users\BÜŞRA\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BÜŞRA\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BÜŞRA\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe
+C:\Users\BÜŞRA\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.pdb
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.pdb
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.CardList.resources
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Entry.resources
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Intern.resources
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternList.resources
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternSearch.resources
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.MainMenu.resources
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.NewIntern.resources
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Properties.Resources.resources
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.SearchingResults.resources
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.exe
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.pdb
+C:\Users\glbhr\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.AddCard.resources
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.exe
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.pdb
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.pdb
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.AddCard.resources
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.CardList.resources
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Entry.resources
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Intern.resources
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternList.resources
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternSearch.resources
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.MainMenu.resources
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.NewIntern.resources
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Properties.Resources.resources
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.SearchingResults.resources
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zehra\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.AddCardToIntern.resources
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe.config
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.pdb
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.AddCard.resources
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.AddCardToIntern.resources
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.CardList.resources
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Entry.resources
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Intern.resources
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternList.resources
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternSearch.resources
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.MainMenu.resources
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.NewIntern.resources
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Properties.Resources.resources
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.SearchingResults.resources
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.exe
+C:\Users\Karaer\Documents\Visual Studio 2010\Projects\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.pdb
+H:\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe.config
+H:\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.exe
+H:\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.pdb
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe.config
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.exe
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.pdb
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.pdb
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.AddCard.resources
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.AddCardToIntern.resources
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.CardList.resources
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Entry.resources
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Intern.resources
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternList.resources
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternSearch.resources
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.MainMenu.resources
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.NewIntern.resources
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Properties.Resources.resources
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.SearchingResults.resources
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gerdal.ISBAK\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe.config
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.exe
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.pdb
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.pdb
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.AddCard.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.AddCardToIntern.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.CardList.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Entry.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Intern.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternList.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternSearch.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.MainMenu.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.NewIntern.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Properties.Resources.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.SearchingResults.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Karaer\Desktop\Yeni klasör (2)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe.config
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.exe
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.pdb
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.pdb
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.AddCard.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.AddCardToIntern.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.CardList.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Entry.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Intern.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternList.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternSearch.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.MainMenu.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.NewIntern.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Properties.Resources.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.SearchingResults.resources
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Karaer\Desktop\Yeni klasör (2)\Yeni klasör\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe.config
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.exe
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.pdb
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.pdb
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.AddCard.resources
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.AddCardToIntern.resources
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.CardList.resources
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Entry.resources
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Intern.resources
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternList.resources
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternSearch.resources
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.MainMenu.resources
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.NewIntern.resources
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Properties.Resources.resources
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.SearchingResults.resources
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Karaer\Desktop\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe.config
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.exe
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.pdb
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.pdb
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.AddCard.resources
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.AddCardToIntern.resources
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.CardList.resources
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Entry.resources
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Intern.resources
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternList.resources
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.InternSearch.resources
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.MainMenu.resources
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.NewIntern.resources
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.Properties.Resources.resources
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.SearchingResults.resources
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ömer Faruk\Desktop\Kod\Staj\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe.config
+C:\Users\Ömer Faruk\Desktop\Kod\Staj\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.exe
+C:\Users\Ömer Faruk\Desktop\Kod\Staj\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.pdb
+D:\Yeni klasör\Ders notu\DERS NOTLARI\Kod\Staj\StajyerBilgiSistemi\StajyerBilgiSistemi\bin\Debug\StajyerBilgiSistemi.exe.config
+D:\Yeni klasör\Ders notu\DERS NOTLARI\Kod\Staj\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.exe
+D:\Yeni klasör\Ders notu\DERS NOTLARI\Kod\Staj\StajyerBilgiSistemi\StajyerBilgiSistemi\obj\x86\Debug\StajyerBilgiSistemi.pdb
